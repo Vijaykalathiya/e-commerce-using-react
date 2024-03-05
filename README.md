@@ -12,7 +12,16 @@ git clone https://github.com/your-username/react-ecommerce.git
 cd react-ecommerce/server
 ```
 ```
-npm install && npm start develop
+npm install && npm run develop
+```
+
+
+### Start Client
+```
+cd react-ecommerce/client
+```
+```
+npm install && npm run start
 ```
 
 Contributing
